@@ -1,0 +1,20 @@
+{
+  "home": "होम",
+  "listing": "सूची",
+  "contact": "संपर्क",
+  "exploreProperties": "असाधारण संपत्तियों का अन्वेषण करें जो सुंदर परिवेश में स्थित हैं",
+  "featuredProperties": "मुख्य संपत्तियाँ",
+  "builder": "निर्माता",
+  "location": "स्थान",
+  "price": "कीमत",
+  "overview": "संपत्ति का विवरण",
+  "facilities": "सुविधाएँ",
+  "amenities": "सुविधाएं",
+  "propertyInfo": "संपत्ति जानकारी",
+  "agencyDetails": "एजेंसी विवरण",
+  "contactAgency": "एजेंसी से संपर्क करें",
+  "scheduleVisit": "भेंट निर्धारित करें",
+  "beds": "बेड",
+  "baths": "बाथ",
+  "garage": "गैरेज"
+}

@@ -1,0 +1,10 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Block sensitive routes if any
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://nestoriarealestate.netlify.app//sitemap.xml
